@@ -8,13 +8,13 @@ Electrical Engineering and Computer Science undergraduate at the University of M
 
 Synthetic numerical experiments for time-phase models, including sampling design, identifiability analysis, calibrated reconstruction, uncertainty, and distribution-level evaluation in Python.
 
-### Enterprise AI Knowledge Workflow
+### [Enterprise AI Review Workflow](https://github.com/my-dai/enterprise-ai-review-workflow)
 
-Sponsored engineering work on an internal knowledge and review workflow using Microsoft Power Platform. My work includes agent flows, enterprise search integration, structured workflow design, evaluation, and reliability testing. Sponsor materials and internal data remain private.
+TypeScript portfolio demo of the review-assistance logic I developed for a sponsored engineering project: field-level revisions with apply/undo, library reference matching, duplicate-risk signals, keyword recommendations, and review follow-up state. The original system uses Microsoft Power Platform; this public version contains only synthetic records and local adapters.
 
-### Radiation Weather Station
+### [Radiation Weather Station Data Pipeline](https://github.com/my-dai/rws-sensor-data-pipeline)
 
-Research and development work on a Raspberry Pi sensor platform for weather and radiation monitoring. I contributed Python data collection, BLE and GPIO integration, sensor calibration and debugging, and local/cloud data handling. The lab repository remains private.
+Python portfolio implementation of the acquisition and data architecture I developed for a Raspberry Pi weather and radiation monitoring system: shared sensor schema, validation and unit normalization, partial-failure handling, SQLite persistence, and analysis-ready CSV export.
 
 ## Technical interests
 
