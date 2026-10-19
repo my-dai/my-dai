@@ -6,7 +6,7 @@ Electrical Engineering and Computer Science undergraduate at the University of M
 
 ### [SpaceKime Research Demo](https://github.com/my-dai/spacekime-research-demo)
 
-Synthetic numerical experiments for time-phase models, including sampling design, identifiability analysis, calibrated reconstruction, uncertainty, and distribution-level evaluation in Python.
+Python research workbench for complex fMRI and time-phase models, including sampling design, identifiability analysis, calibrated reconstruction, uncertainty, PSNR/SSIM, and distribution-level evaluation.
 
 ### [Enterprise AI Review Workflow](https://github.com/my-dai/enterprise-ai-review-workflow)
 
